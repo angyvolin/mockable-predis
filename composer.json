@@ -1,0 +1,27 @@
+{
+    "name": "rodrigodiez/mockable-predis",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Diez Villamuera",
+            "email": "rodrigo@rodrigodiez.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "predis/predis": "~1.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.0",
+        "squizlabs/php_codesniffer": "~2.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "RodrigoDiez\\MockablePredis\\": "src"
+        }
+    }
+}
