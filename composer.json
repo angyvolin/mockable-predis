@@ -1,5 +1,6 @@
 {
     "name": "rodrigodiez/mockable-predis",
+    "description": "A class that extends Predis/Client and has all its magic methods anotated so you can create Prophecy mocks",
     "type": "library",
     "license": "MIT",
     "authors": [
