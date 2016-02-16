@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/rodrigodiez/mockable-predis.svg?branch=master)](https://travis-ci.org/rodrigodiez/mockable-predis)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/e06994d2-d371-404d-90d0-022b2dd7be03/mini.png)](https://insight.sensiolabs.com/projects/e06994d2-d371-404d-90d0-022b2dd7be03)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/rodrigodiez/mockable-predis.svg)](https://packagist.org/packages/rodrigodiez/mockable-predis)
 
 # Mockable Predis
 This project allows developers to use [PhpSpec/Prophecy](http://phpspec.readthedocs.org/en/latest/) to TDD projects that use [Predis](https://github.com/nrk/predis) by allowing mocks of the Client to be created.
